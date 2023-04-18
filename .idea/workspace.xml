@@ -4,16 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df4fbce4-9073-4bff-a46d-9c486c43419f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmieren2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+    <list default="true" id="df4fbce4-9073-4bff-a46d-9c486c43419f" name="Changes" comment="alles neu">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/EventCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/EventType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Fraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/FractionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Friend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/FriendList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Verwaltung.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,27 +49,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/s53034/IdeaProjects/Programmieren2/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Demo">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\s53034\IdeaProjects\Programmieren2\src" />
+      <recent name="C:\Users\s53034\IdeaProjects\Programmieren2\src\Inheritance" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Inheritance.Player">
+    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Employee" />
       <module name="Programmieren2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main1" />
+    <configuration name="FractionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FractionDemo" />
+      <module name="Programmieren2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FriendList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FriendList" />
+      <module name="Programmieren2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Inheritance.Player" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance.Player" />
+      <module name="Programmieren2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Player" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Player" />
       <module name="Programmieren2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,8 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.Inheritance.Player" />
+        <item itemvalue="Application.Player" />
+        <item itemvalue="Application.Employee" />
+        <item itemvalue="Application.FriendList" />
+        <item itemvalue="Application.FractionDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -80,8 +129,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681297291134</updated>
-      <workItem from="1681297293171" duration="4876000" />
+      <workItem from="1681297293171" duration="5168000" />
+      <workItem from="1681368448961" duration="14380000" />
+      <workItem from="1681719842689" duration="241000" />
+      <workItem from="1681720145626" duration="6455000" />
+      <workItem from="1681800673488" duration="676000" />
     </task>
+    <task id="LOCAL-00001" summary="alles neu">
+      <created>1681304755107</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681304755107</updated>
+    </task>
+    <task id="LOCAL-00002" summary="alles neu">
+      <created>1681304854413</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681304854413</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,5 +165,20 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="alles neu" />
+    <option name="LAST_COMMIT_MESSAGE" value="alles neu" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Inheritance/Team.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
