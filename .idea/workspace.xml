@@ -5,25 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df4fbce4-9073-4bff-a46d-9c486c43419f" name="Changes" comment="alles neu">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Direction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/EventCalendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/EventType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Fraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/FractionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Friend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/FriendList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Verwaltung.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Main1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmieren2" beforeDir="false" afterPath="$PROJECT_DIR$/Programmieren2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmieren2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Programmieren2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,20 +33,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/s53034/IdeaProjects/Programmieren2/src&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "false",
+    "last_opened_file_path": "C:/Users/s53034/IdeaProjects/Programmieren2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\s53034\IdeaProjects\Programmieren2\src" />
@@ -134,6 +119,7 @@
       <workItem from="1681719842689" duration="241000" />
       <workItem from="1681720145626" duration="6455000" />
       <workItem from="1681800673488" duration="676000" />
+      <workItem from="1681812093275" duration="306000" />
     </task>
     <task id="LOCAL-00001" summary="alles neu">
       <created>1681304755107</created>
