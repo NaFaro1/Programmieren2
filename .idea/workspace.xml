@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df4fbce4-9073-4bff-a46d-9c486c43419f" name="Changes" comment="alles neu">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="df4fbce4-9073-4bff-a46d-9c486c43419f" name="Changes" comment="egal3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Programmieren2" beforeDir="false" afterPath="$PROJECT_DIR$/Programmieren2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmieren2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Programmieren2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmieren2/src/Class.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmieren2/src/Main1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmieren2/src/Student.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,21 +35,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "full.screen.before.presentation.mode": "false",
-    "last_opened_file_path": "C:/Users/s53034/IdeaProjects/Programmieren2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/s53034/IdeaProjects/Programmieren2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\s53034\IdeaProjects\Programmieren2\src" />
@@ -120,6 +122,7 @@
       <workItem from="1681720145626" duration="6455000" />
       <workItem from="1681800673488" duration="676000" />
       <workItem from="1681812093275" duration="306000" />
+      <workItem from="1681812416982" duration="1237000" />
     </task>
     <task id="LOCAL-00001" summary="alles neu">
       <created>1681304755107</created>
@@ -135,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681304854413</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="egal3">
+      <created>1681812469759</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681812469759</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,7 +164,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="alles neu" />
-    <option name="LAST_COMMIT_MESSAGE" value="alles neu" />
+    <MESSAGE value="egal3" />
+    <option name="LAST_COMMIT_MESSAGE" value="egal3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
